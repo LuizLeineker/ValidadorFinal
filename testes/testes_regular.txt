@@ -1,0 +1,12 @@
+# Testes da Linguagem Regular
+# Formato CPF: ddd.ddd.ddd-dd
+
+## ACEITAS
+123.456.789-10
+000.000.000-00
+987.654.321-99
+
+# REJEITADAS
+12345678910
+123.456.789.10
+12.345.678-90
